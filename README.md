@@ -1,2 +1,1 @@
-# TCommandBlockerLite
-Simple plugin to block dangerous commands in the &lt;tab> and block commands in the chat
+![Descripción de la imagen opcional](https://i.ibb.co/8jwq9Kv/tcbl.png)
