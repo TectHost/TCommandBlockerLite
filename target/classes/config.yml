@@ -1,0 +1,32 @@
+# #################################################################
+# ┌─────────────────────────────────────────────────────────────┐ #
+# │                                                             │ #
+# │                     TCommandBlocker Lite                    │ #
+# │                   Try the Premium version!                  │ #
+# │                                                             │ #
+# │                                                             │ #
+# └─────────────────────────────────────────────────────────────┘ #
+# #################################################################
+
+# Banned Commands list (in chat)
+blocked-commands:
+  - "pl"
+  - "bukkit:pl"
+  - "plugins"
+  - "bukkit:plugins"
+  - "help"
+  - "bukkit:help"
+  - "icanhasbukkit"
+  - "bukkit:icanhasbukkit"
+  - "ver"
+  - "bukkit:ver"
+  - "version"
+  - "bukkit:version"
+  - "about"
+  - "bukkit:about"
+  - "?"
+
+tab:
+  enabled: true
+  # You want more options?
+  # Try the Premium version!

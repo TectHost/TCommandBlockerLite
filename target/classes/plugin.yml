@@ -1,0 +1,22 @@
+name: TCommandBlockerLite
+main: minealex.tcommandblocker.TCommandBlockerLite
+version: 2.0.0
+author: Mine_Alex
+
+depend: [PlaceholderAPI]
+
+commands:
+  tcb:
+    description: Base command
+
+permissions:
+  tcb.admin.command.version:
+    description: Permission to use version command
+  tcb.admin.command.reload:
+    description: Permission to use reload command
+  tcb.bypass.tab:
+    description: Permission to bypass tab filter
+  tcb.bypass.cmds:
+    description: Permission to bypass blocked cmds
+  tcb.admin:
+    description: Permission to use all actions of TCB
